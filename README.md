@@ -39,18 +39,6 @@ DAX (Data Analysis Expressions): Implemented calculated measures for KPIs.
 
 Power Query: Managed data extraction, cleaning, and integration from multiple sources.
 
-Key Challenges
-
-Data Integration: Consolidation and harmonization of complaint data from various sources.
-
-Data Timeliness: Ensuring the data is current and reflects recent complaint activities.
-
-Data Security: Compliance with privacy standards to protect sensitive customer information.
-
-Effective Visualization: Designing clear, intuitive, and informative visual representations.
-
-Expected Outcomes
-
 The dashboard empowers stakeholders to proactively manage customer complaints, leading to increased customer satisfaction, enhanced compliance with regulations, and improved operational effectiveness. By providing a comprehensive view of the complaint landscape, the organization can foster a culture of data-driven decision-making.
 
 
