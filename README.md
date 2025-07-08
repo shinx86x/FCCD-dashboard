@@ -43,4 +43,6 @@ The dashboard empowers stakeholders to proactively manage customer complaints, l
 
 
 ScreenShot
-https://github.com/shinx86x/FCCD-dashboard/blob/main/Dashboard%20Snapshot.jpeg
+![image](https://github.com/user-attachments/assets/f63fe3cb-9d5c-4f23-ba47-87d3e2f3c6af)
+
+
